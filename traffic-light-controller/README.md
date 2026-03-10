@@ -15,9 +15,10 @@ traffic_light_tb.v : Testbench for simulation
 waveform.png : Simulation waveform output
 
 ## Simulation Waveform
-![Waveform](waveform.png)
+![Waveform](waveform.png.png)
 
 ## Tools Used
 Verilog HDL
 EDA Playground
+
 VS Code
