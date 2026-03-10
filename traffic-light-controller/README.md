@@ -4,9 +4,9 @@
 This project implements a Traffic Light Controller using a Finite State Machine (FSM) in Verilog HDL.
 
 ## Features
-FSM-based design
-Sequential logic implementation
-Verilog RTL coding
+FSM-based design,
+Sequential logic implementation,
+Verilog RTL coding,
 Testbench simulation
 
 ## Files
@@ -21,4 +21,5 @@ waveform.png : Simulation waveform output
 Verilog HDL,
 EDA Playground,
 VS Code
+
 
