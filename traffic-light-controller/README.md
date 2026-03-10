@@ -18,7 +18,7 @@ waveform.png : Simulation waveform output
 ![Waveform](waveform.png.png)
 
 ## Tools Used
-Verilog HDL
-EDA Playground
-
+Verilog HDL,
+EDA Playground,
 VS Code
+
